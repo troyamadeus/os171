@@ -1,1 +1,3 @@
 #troyamadeus
+
+Saya berharap dengan mengambil mata kuliah sistem operasi saya dapat membiasakan diri menggunakan sistem operasi Linux, mempelajari bahasa pemerograman C, dan menambah pengetahuan saya mengenai sistem operasi (operating system)
