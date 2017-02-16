@@ -1,1 +1,3 @@
 #troyamadeus
+
+Saya berharap dengan mengambil mata kuliah ini, saya dapat membiasakan diri menggunakan Linux, belajar bahasa pemerograman C dan dapat melakukan software development (khususnya sistem operasi) pada linux.
