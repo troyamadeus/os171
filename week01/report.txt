@@ -60,5 +60,22 @@ Aktivitas ke-
     text file os171/week00/report.txt berisi laporan kegiatan lab sistem 
     operasi pada minggu ke 1 (13 Februari 2017 - 18 Februari 2017)
     Repository GitHub diupdate dengan melakukan push dari repository lokal.
+13. Script file baru bernama My-Computer-System-Time.sh dibuat di dalam
+    folder week01  dengan perintah "My-Computer-System-Time.sh". Script file
+    tersebut diedit dengan text editor yang dapat dipanggil dengan perintah
+    "vi My-Computer-System-Time.sh" atau "nano My-Computer-System-Time.sh"
+    untuk menambahkan script berikut:
 
+    #!/bin/bash
+    DATE=`date +%d\ %b\ %Y\ at\ %H:%M:%S`
+    echo "Today is $DATE"
+    exit 0
 
+    Script tersebut adalah script yang akan menunjukan waktu sistem 
+    komputer dimana script tersebut dijalankan.
+14. Permission dari script file tersebut diubah dengan menjalankan perintah
+    "chmod +x My-Computer-System-Time.sh". Eksekusi script dan simpan hasilnya
+    di file lab01.txt dengan perintah "./My-Computer-System-Time.sh >> lab01.txt"
+15. Text file report.txt pada folder week01 diupdate untuk menambahkan aktivitas
+    Intro to Scripting yang dilakukan dengan menggunakan text editor. Repository
+    GitHub diupdate dengan melakukan push dari repository lokal.

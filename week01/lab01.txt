@@ -1,14 +1,14 @@
 total 80
-drwxr-xr-x 19 troy.amadeus StafCS 4096 Feb 17 14:54 .
+drwxr-xr-x 19 troy.amadeus StafCS 4096 Feb 17 20:52 .
 drwx--x--x  3 troy.amadeus StafCS 4096 Feb 16 21:44 ..
-drwxr-xr-x  8 troy.amadeus StafCS 4096 Feb 16 22:18 .git
+drwxr-xr-x  8 troy.amadeus StafCS 4096 Feb 17 20:37 .git
 drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 16 21:44 key
--rw-r--r--  1 troy.amadeus StafCS    0 Feb 17 14:54 lab01.txt
+-rw-r--r--  1 troy.amadeus StafCS    0 Feb 17 20:52 lab01.txt
 drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 16 21:44 log
 -rw-r--r--  1 troy.amadeus StafCS    7 Feb 16 21:44 README.md
 drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 16 21:44 sandbox
-drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 16 21:56 week00
-drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 17 14:52 week01
+drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 17 15:06 week00
+drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 17 20:51 week01
 drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 16 21:44 week02
 drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 16 21:44 week03
 drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 16 21:44 week04
@@ -21,3 +21,4 @@ drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 16 21:44 week10
 drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 16 21:44 week11
 drwxr-xr-x  2 troy.amadeus StafCS 4096 Feb 16 21:44 xtra
 /home/fasilkom/mahasiswa/t/troy.amadeus/os171/week01
+Today is 17 Feb 2017 at 20:53:12
