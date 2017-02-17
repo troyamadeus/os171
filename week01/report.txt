@@ -1,0 +1,64 @@
+-------------------------------------------------------------------------------------
+Week01 - Operating System - Activity Report
+
+Name	: Troy Amadeus
+NPM 	: 1506730275
+Class	: C
+Lecturer: Bapak Rahmat Samik M. Ibrahim
+-------------------------------------------------------------------------------------
+
+Aktivitas ke-
+
+1. Dilakukan clone repository os171 (selanjutnya disebut repository GitHub
+   dari link clone ini (https://github.com/troyamadeus/ os171.git)
+   ke server badak.cs.ui.ac.id (selanjutnya disebut repository lokal)
+   dengan perintah "git clone https://github.com/troyamadeus/os171.git"
+2. Pada repository lokal os171, dibuat 15 folder yang terdiri atas week00, week01, week02,
+   week03, week04, week05, week06, week07, week08, week09, week10, week11, log, key, xtra,
+   dan sandbox dengan perintah " mkdir <nama_folder>"  untuk kemudian di push ke repository GitHub.
+   Masing-masing folder diisi dengan file yang bernama dummy dengan perintah "touch dummy"
+   sebelum dipush ke repository master di GitHub. Hal ini dikarenakan folder kosong
+   tidak akan dipush ke github.
+3. Pada folder sandbox dengan alamat os171/sandbox di repository lokal dibuat file EmptyTestFile
+   dengan perintah "touch EmptyTestFile". Repository GitHub di update dengan melakukan push dari
+   repository lokal.
+4. Pada folder week00 dengan alamat os171/week00 di repository lokal dihapus file dummy dengan
+   perintah "rm -f dummy". Kemudian text file report.txt dibuat dengan perintah "touch report.txt".
+   File tersebut diedit dengan menggunakan text editor yang dipanggil dengan perintah "nano report.txt"
+   atau "vi report.txt". Text editor yang digunakan adalah "nano report.txt". File report.txt diisi dengan
+   laporan singkat kegiatan lab mata kuliah sistem operasi pada minggu ke-0 (6 Februari 2017 - 11 Februari 2017).
+   Repository GitHub di update dengan melakukan push dari repository lokal.
+5. Pada folder os171 (root folder repository lokal) dibuat text  file lab01.txt
+   dengan perintah "touch lab01.txt". File ini digunakan untuk mencatat
+   progress pekerjaan lab01.
+6. Isi folder os171 direcord ke dalam text  file lab01.txt dengan menggunakan
+   perintah "ls -al > lab01.txt".
+7. Text file lab01.txt dipindahkan ke dalam folder week01 dengan perintah
+   "mv lab01.txt week01".
+8. Alamat folder week01 direcord ke dalam file lab01.txt dengan perintah
+   "pwd >> lab01.txt", berbeda dengan langkah ke 7, >> mengappend is file
+   lab01.txt dengan pwd. Sedangkan > pada langkah ke 7
+   mereplace isi file lab01.txt dengan ls -al.
+9. Pada folder week01, dibuat text  file myExpectation.txt dengan perintah
+   "touch myExpectation.txt". Kemudian file tersebut diedit dengan text editor
+   (dengan perintah "vi myExpectation.txt" atau "nano myExpectation.txt" untuk
+   menambhakn #troyamadeus pada baris 1 file tersebut. Repository GitHub
+   diupdate dengan melakukan push pada repository lokal.
+10. File myExpectation.txt diedit dengan menambahkan ekspektasi mengambil mata
+    kuliah sistem operasi di repository GitHub dengan alamat os171/week01/
+    myExpectation.txt. Isi ekspektasi yang ditambahkan adalah sebagai berikut:
+
+    "Saya berharap dengan mengambil mata kuliah sistem operasi saya dapat
+    membiasakan diri menggunakan sistem operasi Linux, mempelajari bahasa pemerograman
+    C, dan menambah pengetahuan saya mengenai sistem operasi (operating system)". 
+
+    Update di commit ke dalam repository GitHub melalui GitHub.com.
+
+11. Repository lokal diupdate dengan melakukan pull dari repository lokal.
+12. File dummy di dalam folder week01 dihapus dengan menjalankan perintah
+    "rm -f dummy", kemudian text file report.txt. Text file ini seperti
+    text file os171/week00/report.txt berisi laporan kegiatan lab sistem 
+    operasi pada minggu ke 1 (13 Februari 2017 - 18 Februari 2017)
+    Repository GitHub diupdate dengan melakukan push dari repository lokal.
+
+
