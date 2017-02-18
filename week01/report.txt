@@ -79,3 +79,6 @@ Aktivitas ke-
 15. Text file report.txt pada folder week01 diupdate untuk menambahkan aktivitas
     Intro to Scripting yang dilakukan dengan menggunakan text editor. Repository
     GitHub diupdate dengan melakukan push dari repository lokal.
+16. Log aktivitas yang dilakukan dalam mata kuliah sistem operasi dibuat dalam
+    text file dengan nama log01.txt yang berada di dalam folder os171/log/log1.txt.
+    Repository GitHub diupdate dengan melakukan push dari repository lokal.
