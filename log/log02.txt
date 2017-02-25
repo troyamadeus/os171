@@ -1,0 +1,27 @@
+w02-170223-11.00-PS-
+w02-170223-11.00-PS-
+w02-170223-11.00-PS-
+w02-170223-11.00-PS-
+	Mengerjakan tugas lab minggu kedua (week02). Berhasil menyelesaikan
+	pembuatan key pribadi (public dan private key), melakukan import
+	public key milik osteam (Tim Pengajar OS), membuat program untuk 
+	mendemonstrasikan method getpid(), getppid(), dan implementasi
+        loop dalam bahasa C
+	
+w02-170225-03.00-PS-
+w02-170225-03.00-PS-
+w02-170225-03.00-PS-
+w02-170225-03.00-PS-
+	Mengerjakan tugas lab minggu kedua (week02). Berhasil membuat file
+	untuk melakukan checksum pada file-file yang dikerjakan pada hari
+	kamis tanggal 23 februari 2017. Berhasil menyelesaikan pembuatan
+	checksum file-file tersebut dengan SHA-1 Algorithm, meberikan
+	digital signature, dan melakukan enkripsi.
+
+Catatan:
+Mohon maaf saya gagal memenuhi waktu belajar mandiri 4 SKS pada mata kuliah
+Sistem Operasi. 
+
+
+
+
