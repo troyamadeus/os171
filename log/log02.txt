@@ -1,3 +1,10 @@
+w02-170221-16.15-LR-
+w02-170221-16.15-LR-
+w02-170221-16.15-LR-
+w02-170221-16.15-LR-
+	Sesi Kelas, belajar mengenai keamanan komputer (computer
+	security)
+
 w02-170223-11.00-PS-
 w02-170223-11.00-PS-
 w02-170223-11.00-PS-
@@ -7,7 +14,13 @@ w02-170223-11.00-PS-
 	public key milik osteam (Tim Pengajar OS), membuat program untuk 
 	mendemonstrasikan method getpid(), getppid(), dan implementasi
         loop dalam bahasa C
-	
+
+w02-170223-16.15-LR-
+w02-170223-16.15-LR-
+w02-170223-16.15-LR-
+w02-170223-16.15-LR-
+	Sesi kelas, belajar mengenai enkripsi dan checksum
+
 w02-170225-03.00-PS-
 w02-170225-03.00-PS-
 w02-170225-03.00-PS-
