@@ -1,0 +1,34 @@
+w05-170314-16.15-LR-
+w05-170314-16.15-LR-
+w05-170314-16.15-LR-
+w05-170314-16.15-LR-
+	Class Lecture bersama Bapak Rahmat M. Samik Ibrahim
+	mengenai memory, terutama perintah top, malloc, system,
+	dan free (membahas lab di kelas)
+
+w05-170316-16.15-LR-
+w05-170316-16.15-LR-
+w05-170316-16.15-LR-
+w05-170316-16.15-LR-
+	Class Lecture bersama Bapak Rahmat M. Samik Ibrahim
+	mengerjakan latihan mengenai memory dan page.
+
+w05-170316-18.00-PS-
+w05-170316-18.00-PS-
+w05-170316-18.00-PS-
+w05-170316-18.00-PS-
+	Mulai mengerjakan lab week05. Berhasil menyelesaikan
+	hingga langkah untuk mengcompile 06-memory.c
+
+w05-170317-18.00-PS-
+w05-170317-18.00-PS-
+w05-170317-18.00-PS-
+w05-170317-18.00-PS-
+	Mulai membuat penjelasan 06-memory.c pada lab week05
+        berhasil menjelaskan hingga sebelum chrstr = malloc(MSIZE1)
+
+w05-170318-13.00-PS-
+w05-170318-13.00-PS-
+w05-170318-13.00-PS-
+w05-170318-13.00-PS-
+	Menyelesaikan penjelasan 06-memory.c dan lab week05
