@@ -1,23 +1,23 @@
-w06-170418-16.15-LR-
-w06-170418-16.15-LR-
-w06-170418-16.15-LR-
-w06-170418-16.15-LR-
+w07-170418-16.15-LR-
+w07-170418-16.15-LR-
+w07-170418-16.15-LR-
+w07-170418-16.15-LR-
 	Class Lecture bersama Bapak Rahmat M. Samik Ibrahim
 	mengenai program demo mengenai concurency multiprocessing.
 	
-w06-170420-16.15-LR-
-w06-170420-16.15-LR-
-w06-170420-16.15-LR-
-w06-170420-16.15-LR-
+w07-170420-16.15-LR-
+w07-170420-16.15-LR-
+w07-170420-16.15-LR-
+w07-170420-16.15-LR-
 	Class Lecture bersama Bapak Rahmat M. Samik Ibrahim
 	mengenai Scheduling.
 	
-w06-170422-10.00-PS-
-w06-170422-10.00-PS-
-w06-170422-10.00-PS-
-w06-170422-10.00-PS-
-w06-170422-10.00-PS-
-w06-170422-10.00-PS-
-w06-170422-10.00-PS-
-w06-170422-10.00-PS-
-	Mengerjakan dan menyelesaikan lab week06.
+w07-170422-10.00-PS-
+w07-170422-10.00-PS-
+w07-170422-10.00-PS-
+w07-170422-10.00-PS-
+w07-170422-10.00-PS-
+w07-170422-10.00-PS-
+w07-170422-10.00-PS-
+w07-170422-10.00-PS-
+	Mengerjakan dan menyelesaikan lab week07.
